@@ -8,9 +8,9 @@
 ### Track
 A single piece of music
 
-* _name_: The name of the track (e.g., "Master of puppets")
+* _name_: The name of the track (e.g., "Ride the lightning")
 
 ### Album
-* _name_: The name of the album (e.g., "Ride the lightning")
+* _name_: The name of the album (e.g., "For whom the bell tolls")
 * _tracks_: A list of tracks
 * _musicians_: A list of artists who helped create the music on this album
