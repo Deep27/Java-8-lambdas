@@ -14,3 +14,15 @@ A single piece of music
 * _name_: The name of the album (e.g., "For whom the bell tolls")
 * _tracks_: A list of tracks
 * _musicians_: A list of artists who helped create the music on this album
+
+### Important functional interfaces
+        ---------------------------------------------------------------------------------
+        | Interface         | Arguments | Returnns | Example                            |
+        ---------------------------------------------------------------------------------
+        | Predicate<T>      | T         | boolean  | Has this album been released yet?  |
+        | Consumer<T>       | T         | void     | Printing out a value               |
+        | Function<T,R>     | T         | R        | Get the name from an Artist object |
+        | Supplier<T>       | None      | T        | A factory method                   |
+        | UnaryOperator<T>  | T         | T        | Logical not (!)                    |
+        | BinaryOperator<T> | (T,T)     | T        | Multiplying two numbers (*)        |
+        ---------------------------------------------------------------------------------

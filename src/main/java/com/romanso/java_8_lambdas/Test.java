@@ -1,3 +1,5 @@
+package com.romanso.java_8_lambdas;
+
 public class Test {
 
 //        failure example (name is not final or effectively final)
