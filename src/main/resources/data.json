@@ -1,10 +1,88 @@
 {
-  "data": [
+  "bands": [
     {
-      "band": "Metallica",
-      "artists": {
-
-      },
+      "name": "Metallica",
+      "artists": [
+        {
+          "name": "James Hetfield",
+          "roles": [
+            "lead vocal",
+            "rhythm guitar"
+          ],
+          "yearFrom": 1982,
+          "yearTo": -1
+        },
+        {
+          "name": "Dave Mustaine",
+          "roles": [
+            "solo guitar",
+            "back vocal"
+          ],
+          "yearFrom": 1982,
+          "yearTo": 1983
+        },
+        {
+          "name": "Kirk Hammett",
+          "roles": [
+            "solo guitar",
+            "back vocal"
+          ],
+          "yearFrom": 1983,
+          "yearTo": -1
+        },
+        {
+          "name": "Ron McGovney",
+          "roles": [
+            "bas guitar",
+            "back vocal"
+          ],
+          "yearFrom": 1982,
+          "yearTo": 1982
+        },
+        {
+          "name": "Robert Trujillo",
+          "roles": [
+            "bas guitar",
+            "back vocal"
+          ],
+          "yearFrom": 2003,
+          "yearTo": -1
+        },
+        {
+          "name": "Lars Ulrich",
+          "roles": [
+            "drums"
+          ],
+          "yearFrom": 1981,
+          "yearTo": -1
+        },
+        {
+          "name": "Clifford Lee Burton",
+          "roles": [
+            "bas guitar",
+            "back vocal"
+          ],
+          "yearFrom": 1982,
+          "yearTo": 1986
+        },
+        {
+          "name": "Jason Newsted",
+          "roles": [
+            "bas guitar",
+            "back vocal"
+          ],
+          "yearFrom": 1986,
+          "yearTo": 2001
+        },
+        {
+          "name": "Robert Jens Rock",
+          "roles": [
+            "bas guitar"
+          ],
+          "yearFrom": 2001,
+          "yearTo": 2003
+        }
+      ],
       "albums": [
         {
           "name": "Kill 'Em All",
