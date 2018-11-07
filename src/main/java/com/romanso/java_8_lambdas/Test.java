@@ -1,6 +1,6 @@
 package com.romanso.java_8_lambdas;
 
-import com.romanso.java_8_lambdas.all.Track;
+import com.romanso.java_8_lambdas.model.Track;
 
 import javax.swing.text.DateFormatter;
 import java.text.SimpleDateFormat;

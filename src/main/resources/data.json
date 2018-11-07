@@ -1,0 +1,403 @@
+{
+  "data": [
+    {
+      "band": "Metallica",
+      "artists": {
+
+      },
+      "albums": [
+        {
+          "name": "Kill 'Em All",
+          "release": "25.07.1983",
+          "label": "Megaforce",
+          "tracks": [
+            {
+              "name": "Hit the Lights",
+              "length": 255,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Lars Ulrich"
+              ]
+            },
+            {
+              "name": "The Four Horsemen",
+              "length": 432,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Dave Mustaine"
+              ]
+            },
+            {
+              "name": "Motorbreath",
+              "length": 188,
+              "instrumental": false,
+              "music": [
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "Jump in the Fire",
+              "length": 282,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Mustane"
+              ]
+            },
+            {
+              "name": "(Anesthesia) - Pulling Teeth",
+              "length": 255,
+              "instrumental": true,
+              "music": [
+                "Cliff Burton"
+              ]
+            },
+            {
+              "name": "Whiplash",
+              "length": 250,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Phantom Lord",
+              "length": 302,
+              "instrumental": false,
+              "music": [
+                "Mustaine",
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "No Remorse",
+              "length": 387,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Seek & Destroy",
+              "length": 415,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "Metal Militia",
+              "length": 310,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Mustaine"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ride the Lightning",
+          "release": "27.07.1984",
+          "label": "Megaforce",
+          "tracks": [
+            {
+              "name": "Fight Fire with Fire",
+              "length": 285,
+              "instrumental": false,
+              "music": [
+                "Cliff Burton",
+                "Lars Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "Ride the Lightning",
+              "length": 397,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Burton",
+                "Ulrich",
+                "Dave"
+              ]
+            },
+            {
+              "name": "Fade to Black",
+              "length": 417,
+              "instrumental": false,
+              "music": [
+                "Burton",
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "Trapped Under Ice",
+              "length": 242,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Hammet",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Escape",
+              "length": 264,
+              "instrumental": true,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Hammett"
+              ]
+            },
+            {
+              "name": "Creeping Death",
+              "length": 396,
+              "instrumental": false,
+              "music": [
+                "Burton",
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "The Call of Ktulu",
+              "length": 533,
+              "instrumental": true,
+              "music": [
+                "Ulrich",
+                "Mustane",
+                "Burton",
+                "Hetfield"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Master of Puppets",
+          "release": "03.03.1986",
+          "label": "ELektra",
+          "tracks": [
+            {
+              "name": "Battery",
+              "length": 285,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Lars Ulrich"
+              ]
+            },
+            {
+              "name": "Master of Puppets",
+              "length": 397,
+              "instrumental": false,
+              "music": [
+                "Cliff Burton",
+                "Kirk Hammett",
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "The Thing That Should Not Be",
+              "length": 417,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Hammett"
+              ]
+            },
+            {
+              "name": "Welcome Home (Sanitarium)",
+              "length": 242,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Hammett"
+              ]
+            },
+            {
+              "name": "Disposable Heroes",
+              "length": 264,
+              "instrumental": true,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Hammett"
+              ]
+            },
+            {
+              "name": "Leper Messiah",
+              "length": 396,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Orion",
+              "length": 533,
+              "instrumental": true,
+              "music": [
+                "Burton",
+                "Hetfield",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Damage, Inc.",
+              "length": 415,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Burton",
+                "Hammet"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "...And Justice for All",
+          "release": "25.08.1988",
+          "label": "Elektra",
+          "tracks": [
+            {
+              "name": "Blackened",
+              "length": 401,
+              "instrumental": false,
+              "music": [
+                "Jason Newsted",
+                "Lars Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "...And Justice for All",
+              "length": 587,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Kirk Hammett",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "Eye of the Beholder",
+              "length": 390,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Hammett",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "One",
+              "length": 447,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "The Shortest Straw",
+              "length": 396,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ]
+            },
+            {
+              "name": "Harvester of Sorrow",
+              "length": 346,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "The Frayed Ends of Sanity",
+              "length": 464,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ]
+            },
+            {
+              "name": "To Live is to Die",
+              "length": 589,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Burton"
+              ]
+            },
+            {
+              "name": "Dyers Eve",
+              "length": 313,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Hammett"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metallica",
+          "release": "12.08.1991",
+          "label": "Elektra",
+          "tracks": []
+        },
+        {
+          "name": "Load",
+          "release": "18.11.1997",
+          "label": "Elektra",
+          "tracks": []
+        },
+        {
+          "name": "St. Anger",
+          "release": "05.06.2003",
+          "label": "Elektra",
+          "tracks": []
+        },
+        {
+          "name": "Death Magnetic",
+          "release": "12.09.2008",
+          "label": "Warner Bros.",
+          "tracks": []
+        },
+        {
+          "name": "Hardwired... to Self-Destruct",
+          "release": "18.11.2016",
+          "label": "Blackened",
+          "tracks": []
+        }
+      ]
+    }
+  ]
+}

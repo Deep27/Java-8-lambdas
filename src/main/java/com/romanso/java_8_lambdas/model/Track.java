@@ -1,4 +1,4 @@
-package com.romanso.java_8_lambdas.all;
+package com.romanso.java_8_lambdas.model;
 
 public final class Track {
 
