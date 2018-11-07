@@ -10,6 +10,11 @@ public final class Track {
         mLength = length;
     }
 
+    @Override
+    public String toString() {
+        return String.format("%s [%d]", mName, mLength);
+    }
+
     public String getName() {
         return mName;
     }
