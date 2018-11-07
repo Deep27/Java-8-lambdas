@@ -18,7 +18,8 @@
               "music": [
                 "Hetfield",
                 "Lars Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "The Four Horsemen",
@@ -28,7 +29,8 @@
                 "Hetfield",
                 "Ulrich",
                 "Dave Mustaine"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Motorbreath",
@@ -36,7 +38,8 @@
               "instrumental": false,
               "music": [
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Jump in the Fire",
@@ -46,7 +49,8 @@
                 "Ulrich",
                 "Hetfield",
                 "Mustane"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "(Anesthesia) - Pulling Teeth",
@@ -54,7 +58,8 @@
               "instrumental": true,
               "music": [
                 "Cliff Burton"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Whiplash",
@@ -63,7 +68,8 @@
               "music": [
                 "Hetfield",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Phantom Lord",
@@ -73,7 +79,8 @@
                 "Mustaine",
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "No Remorse",
@@ -82,7 +89,8 @@
               "music": [
                 "Hetfield",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Seek & Destroy",
@@ -91,7 +99,8 @@
               "music": [
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Metal Militia",
@@ -101,7 +110,8 @@
                 "Ulrich",
                 "Hetfield",
                 "Mustaine"
-              ]
+              ],
+              "lyrics": []
             }
           ]
         },
@@ -118,7 +128,8 @@
                 "Cliff Burton",
                 "Lars Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Ride the Lightning",
@@ -129,7 +140,8 @@
                 "Burton",
                 "Ulrich",
                 "Dave"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Fade to Black",
@@ -140,7 +152,8 @@
                 "Hammett",
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Trapped Under Ice",
@@ -150,7 +163,8 @@
                 "Hetfield",
                 "Hammet",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Escape",
@@ -160,7 +174,8 @@
                 "Hetfield",
                 "Ulrich",
                 "Hammett"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Creeping Death",
@@ -171,7 +186,8 @@
                 "Hammett",
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "The Call of Ktulu",
@@ -182,7 +198,8 @@
                 "Mustane",
                 "Burton",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             }
           ]
         },
@@ -198,7 +215,8 @@
               "music": [
                 "Hetfield",
                 "Lars Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Master of Puppets",
@@ -209,7 +227,8 @@
                 "Kirk Hammett",
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "The Thing That Should Not Be",
@@ -219,7 +238,8 @@
                 "Ulrich",
                 "Hetfield",
                 "Hammett"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Welcome Home (Sanitarium)",
@@ -229,7 +249,8 @@
                 "Hetfield",
                 "Ulrich",
                 "Hammett"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Disposable Heroes",
@@ -239,7 +260,8 @@
                 "Ulrich",
                 "Hetfield",
                 "Hammett"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Leper Messiah",
@@ -248,7 +270,8 @@
               "music": [
                 "Hetfield",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Orion",
@@ -258,7 +281,8 @@
                 "Burton",
                 "Hetfield",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Damage, Inc.",
@@ -269,7 +293,8 @@
                 "Ulrich",
                 "Burton",
                 "Hammet"
-              ]
+              ],
+              "lyrics": []
             }
           ]
         },
@@ -286,7 +311,8 @@
                 "Jason Newsted",
                 "Lars Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "...And Justice for All",
@@ -296,7 +322,8 @@
                 "Ulrich",
                 "Kirk Hammett",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Eye of the Beholder",
@@ -306,7 +333,8 @@
                 "Hetfield",
                 "Hammett",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "One",
@@ -315,7 +343,8 @@
               "music": [
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "The Shortest Straw",
@@ -324,7 +353,8 @@
               "music": [
                 "Hetfield",
                 "Ulrich"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Harvester of Sorrow",
@@ -333,7 +363,8 @@
               "music": [
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "The Frayed Ends of Sanity",
@@ -343,7 +374,8 @@
                 "Hammett",
                 "Ulrich",
                 "Hetfield"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "To Live is to Die",
@@ -353,7 +385,8 @@
                 "Hetfield",
                 "Ulrich",
                 "Burton"
-              ]
+              ],
+              "lyrics": []
             },
             {
               "name": "Dyers Eve",
@@ -363,7 +396,8 @@
                 "Ulrich",
                 "Hetfield",
                 "Hammett"
-              ]
+              ],
+              "lyrics": []
             }
           ]
         },
@@ -371,31 +405,845 @@
           "name": "Metallica",
           "release": "12.08.1991",
           "label": "Elektra",
-          "tracks": []
+          "tracks": [
+            {
+              "name": "Enter Sandman",
+              "length": 334,
+              "instrumental": false,
+              "music": [
+                "Kirk Hammett",
+                "Lars Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Sad but True",
+              "length": 324,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Holier Than Thou",
+              "length": 228,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Unforgiven",
+              "length": 386,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Wherever I May Roam",
+              "length": 404,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Don't Tread on Me",
+              "length": 241,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Through the Never",
+              "length": 243,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Nothing Else Matters",
+              "length": 390,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Of Wolf and Man",
+              "length": 257,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The God That Failed",
+              "length": 309,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "My Friend of Misery",
+              "length": 408,
+              "instrumental": false,
+              "music": [
+                "Jason Newsted",
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Struggle Within",
+              "length": 236,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            }
+          ]
         },
         {
           "name": "Load",
+          "release": "04.06.1996",
+          "label": "Elektra",
+          "tracks": [
+            {
+              "name": "Ain't My Bitch",
+              "length": 304,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Lars Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "2 X 4",
+              "length": 328,
+              "instrumental": false,
+              "music": [
+                "Kirk Hammett",
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The House Jack Build",
+              "length": 399,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hammett",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Until It Sleeps",
+              "length": 268,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "King Nothing",
+              "length": 330,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Hero of the Day",
+              "length": 262,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Bleeding Me",
+              "length": 498,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hammett",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Cure",
+              "length": 294,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Poor Twisted Me",
+              "length": 240,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Wasting My Hate",
+              "length": 237,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Mama Said",
+              "length": 320,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Thorn Within",
+              "length": 352,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Hammett"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Ronnie",
+              "length": 317,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Outlaw Torn",
+              "length": 589,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            }
+          ]
+        },
+        {
+          "name": "Reload",
           "release": "18.11.1997",
           "label": "Elektra",
-          "tracks": []
+          "tracks": [
+            {
+              "name": "Fuel",
+              "length": 270,
+              "instrumental": false,
+              "music": [
+                "Kirk Hammett",
+                "Lars Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Memory Remains (ft. Marianne Faithfull)",
+              "length": 279,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Devil's Dance",
+              "length": 319,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Unforgiven II",
+              "length": 396,
+              "instrumental": false,
+              "music": [
+                "Hammett",
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Better than You",
+              "length": 322,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Slither",
+              "length": 313,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield",
+                "Hammett"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Carpe Diem Baby",
+              "length": 372,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Hammett"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Bad Seed",
+              "length": 245,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Hammett",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Where the Wild Things Are",
+              "length": 413,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Jason Newsted",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Prince Charming",
+              "length": 365,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Low Man's Lyric",
+              "length": 456,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Attitude",
+              "length": 317,
+              "instrumental": false,
+              "music": [
+                "Ulrich",
+                "Hetfield"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Fixxxer",
+              "length": 495,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Hammett",
+                "Ulrich"
+              ],
+              "lyrics": []
+            }
+          ]
         },
         {
           "name": "St. Anger",
           "release": "05.06.2003",
           "label": "Elektra",
-          "tracks": []
+          "tracks": [
+            {
+              "name": "Frantic",
+              "length": 350,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "St. Anger",
+              "length": 441,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Some Kind of Monster",
+              "length": 505,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Dirty Window",
+              "length": 325,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Invisible Kid",
+              "length": 510,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "My World",
+              "length": 346,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Shoot Me Again",
+              "length": 430,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Sweet Amber",
+              "length": 327,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "The Unnamed Feeling",
+              "length": 428,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Purify",
+              "length": 314,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "All Within My Hands",
+              "length": 528,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Bob Rock"
+              ],
+              "lyrics": []
+            }
+          ]
         },
         {
           "name": "Death Magnetic",
           "release": "12.09.2008",
           "label": "Warner Bros.",
-          "tracks": []
+          "tracks": [
+            {
+              "name": "That Was Just Your Life",
+              "length": 428,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "The End of the Line",
+              "length": 472,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "Broken, Beat & Scarred",
+              "length": 385,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "The Day That Never Comes",
+              "length": 476,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "All Nightmare Long",
+              "length": 478,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "Cyanide",
+              "length": 400,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "The Unforgiven III",
+              "length": 467,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "The Judas Kiss",
+              "length": 481,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "Suicide & Redemption",
+              "length": 598,
+              "instrumental": true,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            },
+            {
+              "name": "My Apocalypse",
+              "length": 301,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+              ],
+              "lyrics": [
+                "James Hetfield"
+              ]
+            }
+          ]
         },
         {
           "name": "Hardwired... to Self-Destruct",
           "release": "18.11.2016",
           "label": "Blackened",
-          "tracks": []
+          "tracks": [
+            {
+              "name": "Hardwired",
+              "length": 190,
+              "instrumental": false,
+              "music": [
+                "James Hetfield",
+                "Lars Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Atlas, Rise!",
+              "length": 390,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Now That We're Dead",
+              "length": 420,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Moth into Flame",
+              "length": 352,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Dream No More",
+              "length": 390,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Halo on Fire",
+              "length": 496,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Confusion",
+              "length": 402,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "ManUNkind",
+              "length": 416,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich",
+                "Robert Trujillo"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Here Comes Revenge",
+              "length": 438,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Am I Savage?",
+              "length": 390,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Murder One",
+              "length": 346,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            },
+            {
+              "name": "Spit Out the Bone",
+              "length": 430,
+              "instrumental": false,
+              "music": [
+                "Hetfield",
+                "Ulrich"
+              ],
+              "lyrics": []
+            }
+          ]
         }
       ]
     }
